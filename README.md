@@ -55,23 +55,23 @@ Rule-based advisories generated from forecast data:
 farmer-weather/
 │
 ├── BACKEND/
-│ ├── index.js
-│ ├── advisory.js
-│ ├── package.json
-│ ├── .env
+│   ├── index.js
+│   ├── advisory.js
+│   ├── package.json
+│   ├── .env
 │
 ├── FRONTEND/
-│ ├── src/
-│ │ ├── App.jsx
-│ │ ├── api.js
-│ │ ├── index.css
-│ │ ├── components/
-│ │ ├── SearchBar.jsx
-│ │ ├── WeatherCard.jsx
-│ │ ├── AdvisoryBox.jsx
-│ │ ├── ChartTemp.jsx
-│ │ ├── advisory.css
-│ ├── package.json
+│   ├── src/
+│   │   ├── App.jsx
+│   │   ├── api.js
+│   │   ├── index.css
+│   │   ├── components/
+│   │   │   ├── SearchBar.jsx
+│   │   │   ├── WeatherCard.jsx
+│   │   │   ├── AdvisoryBox.jsx
+│   │   │   ├── ChartTemp.jsx
+│   │   │   ├── advisory.css
+│   ├── package.json
 │
 └── README.md
 
