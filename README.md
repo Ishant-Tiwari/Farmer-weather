@@ -52,28 +52,7 @@ Rule-based advisories generated from forecast data:
 
 ## 📁 Project Folder Structure
 
-farmer-weather/
-│
-├── BACKEND/
-│   ├── index.js
-│   ├── advisory.js
-│   ├── package.json
-│   ├── .env
-│
-├── FRONTEND/
-│   ├── src/
-│   │   ├── App.jsx
-│   │   ├── api.js
-│   │   ├── index.css
-│   │   ├── components/
-│   │   │   ├── SearchBar.jsx
-│   │   │   ├── WeatherCard.jsx
-│   │   │   ├── AdvisoryBox.jsx
-│   │   │   ├── ChartTemp.jsx
-│   │   │   ├── advisory.css
-│   ├── package.json
-│
-└── README.md
+<img width="651" height="577" alt="strcture" src="https://github.com/user-attachments/assets/2318e025-6d4b-493f-9a7b-8aaecd790f0a" />
 
 
 ---
