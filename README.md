@@ -128,6 +128,45 @@ http://localhost:5000/api/weather?location=Nagpur
 
 If JSON appears → backend OK.
 
+
+
+🚀 How to Run the Project
+✔ 1. Clone or Download Project
+
+Just extract the ZIP or clone the GitHub repo.
+
+✔ 2. Setup BACKEND
+Navigate to backend folder
+cd BACKEND
+
+Install dependencies
+npm install
+
+Create .env file inside BACKEND/
+PORT=5000
+OWM_API_KEY=YOUR_OPENWEATHER_API_KEY
+
+Start backend
+npm run dev
+
+Backend runs on:
+
+👉 http://localhost:5000/api/weather?location=Nagpur
+
+✔ 3. Setup FRONTEND
+Navigate to frontend
+cd FRONTEND
+
+Install
+npm install
+
+Run frontend
+npm run dev
+
+Frontend runs on:
+
+👉 http://localhost:5173/
+----
 ---
 
 ## 📷 Screenshots
@@ -139,15 +178,14 @@ If JSON appears → backend OK.
 
 ## 📹 Demo Video 
 
-(Add your recorded demo link here)
+(https://drive.google.com/drive/folders/1zH8kNR5lwy-WroOfkyKkm3B6B95lq4mr)
 
 ---
 
 ## 🧑‍💻 Developer
 
 **Ishant Tiwari**  
-Nagpur, Maharashtra  
-Final Year – B.Tech CSE (Specialization: AIML)  
+B.Tech CSE (Specialization: AIML)  
 Shri Ramdeobaba College of Engineering, Nagpur  
 
 ---
