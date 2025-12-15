@@ -176,12 +176,6 @@ Frontend runs on:
 
 ---
 
-## 📹 Demo Video 
-
-(https://drive.google.com/drive/folders/1zH8kNR5lwy-WroOfkyKkm3B6B95lq4mr)
-
----
-
 ## 🧑‍💻 Developer
 
 **Ishant Tiwari**  
