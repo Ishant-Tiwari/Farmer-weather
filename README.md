@@ -12,7 +12,7 @@ User can search any city and get:
 - Humidity  
 - Wind Speed (km/h)  
 - Rain Probability (POP)  
-- 5-day forecast (3-hour interval)
+- 5-day forecast (3-hour interval) 
 
 ### 🌱 Smart Farmer Advisory System  
 Rule-based advisories generated from forecast data:
